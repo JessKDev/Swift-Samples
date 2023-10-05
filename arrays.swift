@@ -5,7 +5,7 @@ for i in arr1 {
     print(i) // 1, 2
 }
 
-var arr2 = ["a", "b"]
+var arr2 = ["a", "b", "c"]
 for i in arr2 {
-    print(i) // a, b
+    print(i) // a, b, c
 }

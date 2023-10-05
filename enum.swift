@@ -15,4 +15,6 @@ switch var1 {
         print("1")
     case .two:
         print("2")
+    case .three:
+        print("3")
 }
